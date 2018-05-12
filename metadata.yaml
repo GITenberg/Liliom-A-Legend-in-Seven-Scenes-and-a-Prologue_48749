@@ -1,9 +1,13 @@
 _repo: Liliom-A-Legend-in-Seven-Scenes-and-a-Prologue_48749
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Glazer, Benjamin F.
     gutenberg_agent_id: '44954'
     url: http://www.gutenberg.org/2009/agents/44954
+covers:
+- cover_type: archival
+  image_path: 48749-h/images/cover.jpg
 creator:
   author:
     agent_name: Molnár, Ferenc
@@ -19,6 +23,8 @@ description: "Liliom is a 1909 play by the Hungarian playwright Ferenc Molnár. 
   \ was very famous in its own right during the early to mid-20th century, but is\
   \ best known today as the basis for the Rodgers and Hammerstein musical Carousel.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48749#Liliom-A-Legend-in-Seven-Scenes-and-a-Prologue
 gutenberg_issued: '2015-04-20'
 gutenberg_type: Text
 identifiers:
